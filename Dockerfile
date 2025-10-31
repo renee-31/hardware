@@ -1,14 +1,11 @@
-# Use an official lightweight Nginx image
-FROM nginx:alpine
+# Use the official PHP image with Apache
+FROM php:8.2-apache
 
-# Remove the default Nginx web files
-RUN rm -rf /usr/share/nginx/html/*
+# Copy all project files into the container
+COPY . /var/www/html/
 
-# Copy your HTML file into Nginx’s web root
-COPY index.html /usr/share/nginx/html/index.html
-
-# Expose port 80 to the outside world
+# Expose port 80
 EXPOSE 80
 
-# Start Nginx
-CMD ["nginx", "-g", "daemon off;"]
+# Start Apache when the container runs
+CMD ["apache2-foreground"]
