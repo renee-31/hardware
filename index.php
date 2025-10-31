@@ -223,7 +223,7 @@
         <div class="poster">
             <div class="header">
                 <h1 class="company-name">Mwihoko Auto Spares & Hardware</h1>
-                <p class="tagline">Your One-Stop Solution for Auto Parts & Hardware Needs</p>
+                <p class="tagline">Your One-Stop Solution for Auto Parts & Hardware Needs!</p>
             </div>
             
             <div class="offer">
@@ -267,12 +267,313 @@
                 
                 <div class="contact">
                     <h2>Contact Us</h2>
-                    <p><i>📞</i> Phone: 0712 345 678 / 0733 456 789</p>
+                    <p><i>📞</i> Phone: 0729 112 631 / 0762471326</p>
                     <p><i>📧</i> Email: info@mwihokoautospares.co.ke</p>
                     <p><i>🕘</i> Open: Mon-Sat 8:00 AM - 7:00 PM</p>
                     <p><i>📱</i> Follow us on social media</p>
                 </div>
             </div>
+            <!-- Products Section -->
+<div class="products-section">
+    <h2>Our Products & Prices</h2>
+    
+    <div class="products-grid">
+        <!-- Auto Parts Category -->
+        <div class="product-category">
+            <h3><i>🚗</i> Auto Parts</h3>
+            <div class="product-list">
+                <div class="product-item">
+                    <span class="product-name">Brake Pads (Set)</span>
+                    <span class="product-price">KSh 2,500</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Oil Filter</span>
+                    <span class="product-price">KSh 850</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Spark Plugs (Set of 4)</span>
+                    <span class="product-price">KSh 1,200</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Car Battery</span>
+                    <span class="product-price">KSh 8,500</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Headlight Bulbs</span>
+                    <span class="product-price">KSh 1,800</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Tools Category -->
+        <div class="product-category">
+            <h3><i>🔧</i> Tools & Equipment</h3>
+            <div class="product-list">
+                <div class="product-item">
+                    <span class="product-name">Tool Kit (32 pcs)</span>
+                    <span class="product-price">KSh 4,200</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Power Drill</span>
+                    <span class="product-price">KSh 6,500</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Hammer</span>
+                    <span class="product-price">KSh 750</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Screwdriver Set</span>
+                    <span class="product-price">KSh 1,500</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Wrench Set</span>
+                    <span class="product-price">KSh 2,800</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Building Materials Category -->
+        <div class="product-category">
+            <h3><i>🏗️</i> Building Materials</h3>
+            <div class="product-list">
+                <div class="product-item">
+                    <span class="product-name">Cement (50kg)</span>
+                    <span class="product-price">KSh 850</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Nails (1kg)</span>
+                    <span class="product-price">KSh 350</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Screws (Assorted)</span>
+                    <span class="product-price">KSh 250</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">PVC Pipes (6ft)</span>
+                    <span class="product-price">KSh 450</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Paint Brush Set</span>
+                    <span class="product-price">KSh 1,200</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Electrical Category -->
+        <div class="product-category">
+            <h3><i>⚡</i> Electrical Supplies</h3>
+            <div class="product-list">
+                <div class="product-item">
+                    <span class="product-name">Electrical Wires (per meter)</span>
+                    <span class="product-price">KSh 180</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Light Bulbs (LED)</span>
+                    <span class="product-price">KSh 350</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Switches & Sockets</span>
+                    <span class="product-price">KSh 450</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Extension Cord (10m)</span>
+                    <span class="product-price">KSh 1,500</span>
+                </div>
+                <div class="product-item">
+                    <span class="product-name">Circuit Breaker</span>
+                    <span class="product-price">KSh 1,800</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Services Section -->
+<div class="services-section">
+    <h2>Our Services</h2>
+    
+    <div class="services-grid">
+        <div class="service-item">
+            <div class="service-icon">🔧</div>
+            <h3>Auto Parts Installation</h3>
+            <p>Professional installation of all auto parts with warranty</p>
+            <div class="service-price">Starting from KSh 1,000</div>
+        </div>
+        
+        <div class="service-item">
+            <div class="service-icon">🚗</div>
+            <h3>Vehicle Diagnostics</h3>
+            <p>Comprehensive vehicle inspection and problem identification</p>
+            <div class="service-price">KSh 1,500</div>
+        </div>
+        
+        <div class="service-item">
+            <div class="service-icon">🛠️</div>
+            <h3>Tool Repair & Maintenance</h3>
+            <p>Repair and servicing of all power tools and equipment</p>
+            <div class="service-price">Starting from KSh 800</div>
+        </div>
+        
+        <div class="service-item">
+            <div class="service-icon">🏠</div>
+            <h3>Home Improvement Consultation</h3>
+            <p>Expert advice for your DIY projects and home repairs</p>
+            <div class="service-price">Free Consultation</div>
+        </div>
+        
+        <div class="service-item">
+            <div class="service-icon">⚡</div>
+            <h3>Electrical Installation</h3>
+            <p>Safe and professional electrical wiring and installations</p>
+            <div class="service-price">Starting from KSh 2,500</div>
+        </div>
+        
+        <div class="service-item">
+            <div class="service-icon">🔩</div>
+            <h3>Custom Fabrication</h3>
+            <p>Custom metal and wood fabrication for unique projects</p>
+            <div class="service-price">Price on Request</div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Products Section Styles */
+    .products-section {
+        margin: 30px 0;
+        padding: 25px;
+        background: #f8f9fa;
+        border-radius: 8px;
+        border-left: 5px solid #1a2a6c;
+    }
+    
+    .products-section h2 {
+        color: #1a2a6c;
+        margin-bottom: 20px;
+        font-size: 24px;
+        border-bottom: 2px solid #fdbb2d;
+        padding-bottom: 8px;
+    }
+    
+    .products-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+    }
+    
+    .product-category {
+        background: white;
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+    }
+    
+    .product-category h3 {
+        color: #1a2a6c;
+        margin-bottom: 15px;
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .product-category h3 i {
+        margin-right: 10px;
+        font-size: 20px;
+    }
+    
+    .product-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .product-item {
+        display: flex;
+        justify-content: space-between;
+        padding: 8px 0;
+        border-bottom: 1px dashed #e0e0e0;
+    }
+    
+    .product-name {
+        font-weight: 500;
+    }
+    
+    .product-price {
+        font-weight: bold;
+        color: #b21f1f;
+    }
+    
+    /* Services Section Styles */
+    .services-section {
+        margin: 30px 0;
+        padding: 25px;
+        background: #f8f9fa;
+        border-radius: 8px;
+        border-left: 5px solid #fdbb2d;
+    }
+    
+    .services-section h2 {
+        color: #1a2a6c;
+        margin-bottom: 20px;
+        font-size: 24px;
+        border-bottom: 2px solid #fdbb2d;
+        padding-bottom: 8px;
+    }
+    
+    .services-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 20px;
+    }
+    
+    .service-item {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+        text-align: center;
+        transition: transform 0.3s;
+    }
+    
+    .service-item:hover {
+        transform: translateY(-5px);
+    }
+    
+    .service-icon {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    
+    .service-item h3 {
+        color: #1a2a6c;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    
+    .service-item p {
+        color: #666;
+        margin-bottom: 15px;
+        font-size: 14px;
+        line-height: 1.4;
+    }
+    
+    .service-price {
+        font-weight: bold;
+        color: #b21f1f;
+        font-size: 16px;
+    }
+    
+    @media (max-width: 700px) {
+        .products-grid {
+            grid-template-columns: 1fr;
+        }
+        
+        .services-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+</style>
+
             
             <div class="footer">
                 <div class="hours">
@@ -284,9 +585,8 @@
                 
                 <div class="location">
                     <h3>Visit Our Store</h3>
-                    <p>Mwihoko Town Center</p>
-                    <p>Near Mwihoko Market</p>
-                    <p>Free Parking Available</p>
+                    <p>Sipili Town Center</p>
+                            <p>Free Parking Available</p>
                 </div>
             </div>
         </div>
